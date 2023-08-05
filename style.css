@@ -1,0 +1,26 @@
+h1 {
+    font-weight: 800;
+    font-size: 45px;
+    font-family: "Arial", sans-serif;
+
+}
+h3 {
+    font-weight: 800;
+    font-size: 35px;
+    font-family: "Arial", sans-serif;
+}
+p, li {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+ol, ul {
+    color: black;
+
+}
+a {
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+
+}
